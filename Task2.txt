@@ -1,0 +1,20 @@
+июл. 01, 2023 2:34:52 PM task_2 bubbleSort
+INFO: [8, 7, 4, 2, 8, 4, 7, 9, 7, 0]
+июл. 01, 2023 2:34:52 PM task_2 bubbleSort
+INFO: [8, 7, 4, 8, 4, 7, 9, 7, 2, 0]
+июл. 01, 2023 2:34:52 PM task_2 bubbleSort
+INFO: [8, 7, 8, 4, 7, 9, 7, 4, 2, 0]
+июл. 01, 2023 2:34:52 PM task_2 bubbleSort
+INFO: [8, 8, 7, 7, 9, 7, 4, 4, 2, 0]
+июл. 01, 2023 2:34:52 PM task_2 bubbleSort
+INFO: [8, 8, 7, 9, 7, 7, 4, 4, 2, 0]
+июл. 01, 2023 2:34:52 PM task_2 bubbleSort
+INFO: [8, 8, 9, 7, 7, 7, 4, 4, 2, 0]
+июл. 01, 2023 2:34:52 PM task_2 bubbleSort
+INFO: [8, 9, 8, 7, 7, 7, 4, 4, 2, 0]
+июл. 01, 2023 2:34:52 PM task_2 bubbleSort
+INFO: [9, 8, 8, 7, 7, 7, 4, 4, 2, 0]
+июл. 01, 2023 2:34:52 PM task_2 bubbleSort
+INFO: [9, 8, 8, 7, 7, 7, 4, 4, 2, 0]
+июл. 01, 2023 2:34:52 PM task_2 bubbleSort
+INFO: [9, 8, 8, 7, 7, 7, 4, 4, 2, 0]
